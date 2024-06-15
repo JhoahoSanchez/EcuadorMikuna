@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|c:\\users\\kedos\\source\\repos\\ecuadormikuna\\ecuadormikuna\\frontend\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|solutionrelative:ecuadormikuna\\frontend\\src\\components\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|c:\\users\\kedos\\source\\repos\\ecuadormikuna\\ecuadormikuna\\frontend\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|solutionrelative:ecuadormikuna\\frontend\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|c:\\users\\kedos\\source\\repos\\ecuadormikuna\\ecuadormikuna\\frontend\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|solutionrelative:ecuadormikuna\\frontend\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|c:\\users\\kedos\\source\\repos\\ecuadormikuna\\ecuadormikuna\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|solutionrelative:ecuadormikuna\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|c:\\users\\kedos\\source\\repos\\ecuadormikuna\\ecuadormikuna\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\ecuadormikuna\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F97DA10-8CA0-4E31-87B4-AA8C8CC5EE8F}|EcuadorMikuna\\EcuadorMikuna.csproj|solutionrelative:ecuadormikuna\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,24 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Home.jsx",
+              "RelativeDocumentMoniker": "EcuadorMikuna\\frontend\\src\\components\\Home.jsx",
+              "ToolTip": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Home.jsx",
+              "RelativeToolTip": "EcuadorMikuna\\frontend\\src\\components\\Home.jsx",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-15T06:30:41.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Register.jsx",
+              "RelativeDocumentMoniker": "EcuadorMikuna\\frontend\\src\\components\\Register.jsx",
+              "ToolTip": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Register.jsx",
+              "RelativeToolTip": "EcuadorMikuna\\frontend\\src\\components\\Register.jsx",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-15T06:29:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Login.jsx",
+              "RelativeDocumentMoniker": "EcuadorMikuna\\frontend\\src\\components\\Login.jsx",
+              "ToolTip": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\frontend\\src\\components\\Login.jsx",
+              "RelativeToolTip": "EcuadorMikuna\\frontend\\src\\components\\Login.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-15T06:27:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "EcuadorMikuna\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\Controllers\\AuthController.cs",
               "RelativeToolTip": "EcuadorMikuna\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAgAAAAAzszMzAwpwA8AAABIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T06:07:30.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\kedos\\source\\repos\\EcuadorMikuna\\EcuadorMikuna\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "EcuadorMikuna\\App_Start\\WebApiConfig.cs",
@@ -43,16 +98,7 @@
               "RelativeToolTip": "EcuadorMikuna\\App_Start\\WebApiConfig.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T06:04:10.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-06-15T06:04:10.511Z"
             }
           ]
         }
